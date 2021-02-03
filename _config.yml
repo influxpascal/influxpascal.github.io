@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Influx Lab. - Pascal Damman"
+title                    : "InFluX Lab. (Pascal Damman)"
 title_separator          : "-"
-name                     : &name "Influx Lab. - Pascal Damman"
+name                     : &name "InFluX - Pascal Damman"
 description              : &description "personal description"
 url                      : https://influxpascal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "InFluX Lab. - Pascal Damman)"
+  name             : "InFluX Lab. (UMONS) Pascal Damman)"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Mons, Belgium"
