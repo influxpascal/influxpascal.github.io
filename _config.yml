@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "InFluX Lab. Pascal Damman"
+  name             : "Pascal Damman"
   avatar           : "UMONS.jpg"
   bio              : "Professsor - Principal Investigator"
   location         : "Mons, Belgium"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nUU2u2kAAAAJ&hl=fr&oi=ao"
-  email            : "pascal [dot] damman [at] umons.ac.be
+  email            : "pascal.damman@umons.ac.be"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
