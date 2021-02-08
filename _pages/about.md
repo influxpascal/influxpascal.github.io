@@ -14,7 +14,7 @@ Our strategy to tackle a problem is based on controlled desktop experiments, sup
 
 I like the idea that Research is a kind of labyrinth built by the researchers themselves !
 
-Stat Phys from Guy de Maupasant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
+Stat Phys from Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
 
 ***
 
