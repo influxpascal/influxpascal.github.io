@@ -14,6 +14,10 @@ Our strategy to tackle a problem is based on controlled desktop experiments, sup
 
 I like the idea that Research is a kind of labyrinth built by the researchers themselves !
 
+Stat Phys from Guy de Maupasant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
+
+***
+
 Phone Office: +32 (0) 65 373819
 
 Office: 1-062, 1st Floor, Mendeleev Building, campus Plaine de Nimy ([see access map](https://web.umons.ac.be/fr/plan-des-campus/){:target="_blank"})
