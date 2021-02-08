@@ -16,7 +16,7 @@ I like the idea that Research is a kind of labyrinth built by the researchers th
 
 Phone Office: +32 (0) 65 373819
 
-Office: 1-062, 1st Floor, Mendeleev Building, campus Plaine de Nimy (see access map)
+Office: 1-062, 1st Floor, Mendeleev Building, campus Plaine de Nimy ([see access map](http://portail.umons.ac.be/EN2/universite/admin/cerp/plancampus/Pages/CampusPlainedeNimy.aspx)
 
 
 
