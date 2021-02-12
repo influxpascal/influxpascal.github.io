@@ -13,7 +13,7 @@ Within the InFluX lab, our research group focus his activities on the fundamenta
 
 I like the idea that Research is a kind of labyrinth built by the researchers themselves !
 
-<center>![Franquin](../images/Franquin.jpg)</center>
+![Franquin](../images/Franquin.jpg)
 *Franquin, Idées Noires*
 
 ***
