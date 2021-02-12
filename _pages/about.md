@@ -13,6 +13,9 @@ Within the InFluX lab, our research group focus his activities on the fundamenta
 
 I like the idea that Research is a kind of labyrinth built by the researchers themselves !
 
+<center>![Franquin](../images/Franquin.jpg)</center>
+*Franquin, Idées Noires*
+
 ***
 Stat Phys from Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
 
