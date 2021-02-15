@@ -11,11 +11,9 @@ redirect_from:
 
 Within the InFluX lab, our research group focus his activities on the fundamental understanding of *soft matter* through experiments, simulations and statistical physics, on *Self-organization* from geometrically constrained sheets, rods, ribbons, shells and the *biomechanics* of living organisms. 
 
-I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-jail proposed here by Franquin (excerpt from “idées noires”), researchers build their own labyrinth by themselves !
+I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-jail proposed here by Franquin (excerpt from *“idées noires”*), researchers build their labyrinth by themselves !
 
 <center><img src="../images/Franquin.jpg" width="400" height="300" /></center>
-
-*Franquin, Idées Noires*
 
 ***
 Stat Phys from Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
