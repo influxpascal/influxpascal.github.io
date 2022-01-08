@@ -18,7 +18,7 @@ I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-j
 ***
 *“There’s no sense in being precise when you don’t even know what you’re talking about”*
 
-(Von Neuman)
+(Von Neumann)
 ***
 
 ***
