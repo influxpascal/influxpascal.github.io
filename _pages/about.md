@@ -16,6 +16,12 @@ I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-j
 <center><img src="../images/Franquin.jpg" width="400" height="300" /></center>
 
 ***
+*“There’s no sense in being precise when you don’t even know what you’re talking about”*
+
+(Von Neuman)
+***
+
+***
 Stat Phys from Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
 
 ***
