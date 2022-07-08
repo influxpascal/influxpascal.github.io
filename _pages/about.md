@@ -21,7 +21,7 @@ I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-j
 (Von Neumann)
 
 ***
-Hard sphere fluid viewed by Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
+Hard sphere fluid from Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
 
 ***
 
