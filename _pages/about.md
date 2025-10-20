@@ -19,7 +19,6 @@ I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-j
 *“There’s no sense in being precise when you don’t even know what you’re talking about”*
 
 (John Von Neumann)
-***
 
 Phone Office: +32 (0) 65 373819
 
