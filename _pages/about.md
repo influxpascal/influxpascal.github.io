@@ -18,11 +18,7 @@ I like the idea that Research is a kind of labyrinth, but unlike the labyrinth-j
 ***
 *“There’s no sense in being precise when you don’t even know what you’re talking about”*
 
-(Von Neumann)
-
-***
-Hard sphere fluids from Guy de Maupassant: *« Quand nous voulons nous mêler, nos élans l’un vers l’autre ne font que nous heurter l’un à l’autre »*
-
+(John Von Neumann)
 ***
 
 Phone Office: +32 (0) 65 373819
