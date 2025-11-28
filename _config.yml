@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "InFluX Lab. (Pascal Damman)"
+title                    : "InFluX Lab."
 title_separator          : "-"
 name                     : &name "InFluX - Pascal Damman"
 description              : &description "personal description"
